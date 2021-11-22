@@ -103,6 +103,12 @@ a.tbl-biru:hover {
     animation: Diamond Seller List 15s linear infinite;
 }
 
+.wei img {
+    border-radius: 30%;
+    width: 200px;
+    height: 250px;
+}
+
 .satu {
     max-width: 500px;
     height: 30vh;
